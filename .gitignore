@@ -1,0 +1,8 @@
+bin
+
+obj
+.vs
+*.pdsync
+*.pdsyncu
+*.scc
+*.suo
